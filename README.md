@@ -2,7 +2,7 @@
 
 Hi, I'm Nathan Oliver and I would like to become one of your moderators. Stack Overflow has always helped me when learning to program, and my early interactions have been giving back by answering questions. Once I realized that the users, and not just elected moderators, could moderate the site I realized that I could do so much more. I love that we can make this site better just by taking out the trash and editing borderline posts into quality submissions.
 
-These days I spend about 50-75% of my time moderating, focusing on the C++ tag. That consistent of a lot of duplicate hunting, close voting of off topic questions, and editing questions for formatting.
+These days I spend about 50-75% of my time moderating, focusing on the C++ tag. That consists of a lot of duplicate hunting, close voting of off topic questions, and editing questions for formatting.
 
 I'm also a Room Owner of SOCVR, a chat room focused on site moderation. My work with the group over the last couple of years has helped me tremendously with becoming a better site moderator - what to look for, how to handle edge cases, when to be responsible for my actions, and more. I get exposed with so many different scenarios to evaluate which lets me judge new posts faster.
 
