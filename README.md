@@ -10,3 +10,4 @@ These days I spend about 50-75% of my time moderating.  I'm pretty active on the
 * Moderately active on meta
 * Active from 7am to at least 4pm US Central Time
 * Help Brad with the hunt for plagiarism
+* 13.8K close votes with 3.5K close vote reviews.
