@@ -1,8 +1,10 @@
 # Nomination
 
-Hi, I'm Nathan Oliver and I would like to become one of your moderators.  Originally I started here to give back to the community as I got plenty of help when I was first learning how to program.  Once I realized that the users, and not just elected moderators, could moderate the site I knew that SO was a cut above.  I love that we can make this site better just by taking out the trash and editing borderline questions and answers into good ones.
+Hi, I'm Nathan Oliver and I would like to become one of your moderators. Stack Overflow has always helped me when learning to program, and my early interactions have been giving back by answering questions. Once I realized that the users, and not just elected moderators, could moderate the site I realized that I could do so much more. I love that we can make this site better just by taking out the trash and editing borderline posts into quality submissions.
 
-These days I spend about 50-75% of my time moderating.  I'm pretty active on the C++ tag and I am also a room owner of [SOCVR](https://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers).  My work with SOCVR over the last couple of years has really helped with my moderation.  I get exposed to so many different things to look at which gives me a good base to apply what I've seen to new stuff coming in.
+These days I spend about 50-75% of my time moderating, focusing on the C++ tag. <need 1 more sentence here>
+
+I'm also a Room Owner of SOCVR, a chat room focused on site moderation. My work with the group over the last couple of years has helped me tremendously with becoming a better site moderator - what to look for, how to handle edge cases, when to be responsable for my actions, and more. I get exposed with so many different scenarios to evaluate which lets me judge new posts faster.
 
 # Why me?
 
