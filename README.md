@@ -11,5 +11,5 @@ I'm also a Room Owner of SOCVR, a chat room focused on site moderation. My work 
 * Room owner of a moderation focused chat room
 * Moderately active on meta
 * Active from 7am to at least 4pm US Central Time
-* Help Brad with the hunt for plagiarism
+* Helped moderators hunt for plagiarism
 * 13.8K close votes with 3.5K close vote reviews.
