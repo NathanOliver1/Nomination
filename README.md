@@ -7,7 +7,7 @@ These days I spend about 50-75% of my time moderating.  I'm pretty active on the
 # Why not me?
 
 * I've never been a moderator on any site before
-* I tend to be not very active on the weeks but I am willing to change that
+* I tend to be not very active on the weekends but I am willing to change that
 * Not that active on the weekends (But I am willing to log in and run through the mod queues)
 
 # Why me?
