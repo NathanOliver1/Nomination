@@ -4,7 +4,7 @@ Hi, I'm Nathan Oliver. I would like to become one of your moderators. Stack Over
 
 These days, I spend about 50-75% of my time moderating, focusing on the C++ tag. That consists of a lot of duplicate hunting, close-voting of off-topic questions, and editing questions for formatting and clarity.
 
-I'm a Room Owner of SOCVR, a chat room focused on site moderation. Over the last couple of years, my work with that room has helped me tremendously with becoming a better site moderator - what to look for, how to handle edge cases, always being responsible to the community for my actions, and more. I get exposed to so many different scenarios to evaluate, which lets me judge new posts faster.
+I'm a Room Owner of SOCVR, a chat room focused on site moderation. Over the last couple of years, my work with SOCVR has helped me tremendously to become a better site moderator - what to look for, how to handle edge cases, always being responsible to the community for my actions, and more. I get exposed to so many different scenarios to evaluate, which lets me judge new posts faster.
 
 # Why me?
 
